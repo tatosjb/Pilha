@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\tato\documents\visual studio 2012\projects\pilha\pilha\main.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+  Pilha.vcxproj -> c:\users\tato\documents\visual studio 2012\Projects\Pilha\Debug\Pilha.exe
